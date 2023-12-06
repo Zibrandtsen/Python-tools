@@ -6,6 +6,6 @@ setup(name="python_tools_Zibrandtsen",
       license='MIT',
       author="Jacob Zibrandtsen",
       authoer_email="jrz@live.dk",
-      url='https://www.github.com/Zibrandtsen/Python-tools'
+      url='https://www.github.com/Zibrandtsen/Python-tools',
       packages=['csv_tools']
 )
