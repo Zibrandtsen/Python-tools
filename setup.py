@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-setup(name="python_tools_Zibrandtsen",
+setup(name="csv_tools",
       version="1.0.0",
       description="Some usefull tools for python development",
       license='MIT',
